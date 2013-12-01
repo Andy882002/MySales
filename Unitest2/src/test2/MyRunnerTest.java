@@ -16,6 +16,7 @@ public class MyRunnerTest {
 	         System.out.println(failure.toString());
 	      }
 	      System.out.println(result.wasSuccessful());
+	      System.out.println("Hello My first change");
 	   }
 	
 
